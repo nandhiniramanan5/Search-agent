@@ -16,6 +16,5 @@ Arad Sibiu 140
 Note: When a node with two parts in the name comes up, we have used “_” between the parts of the name.
  eg. “Rimnicu Vilcea” will be “Rimnicu_Vilcea”
 
-Sample Output:
-Following is the sample output for two Nodes “Arad” and “Bucharest” 
+
  
